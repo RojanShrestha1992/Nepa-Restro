@@ -14,7 +14,7 @@ export default function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />}></Route>
+          <Route path="/Nepa-Restro" element={<Home />}></Route>
           <Route path="/About" element={<About />}></Route>
           <Route path="/Menu" element={<Menu />}></Route>
           <Route path="/Contact" element={<Contact />}></Route>
