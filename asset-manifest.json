@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nepa-Restro/static/css/main.49e3b504.css",
+    "main.js": "/Nepa-Restro/static/js/main.9182b5e8.js",
+    "static/media/vegan.jpg": "/Nepa-Restro/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/Momo.jpeg": "/Nepa-Restro/static/media/Momo.08ae96a0905fd0174669.jpeg",
+    "static/media/expensive.jpg": "/Nepa-Restro/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/17378.jpg": "/Nepa-Restro/static/media/17378.d9d7380697a65597c8f3.jpg",
+    "static/media/pizza.jpeg": "/Nepa-Restro/static/media/pizza.9e72bb83a05c70159314.jpeg",
+    "static/media/sausage.jpg": "/Nepa-Restro/static/media/sausage.fe9a3ca0e410dc90f9ec.jpg",
+    "static/media/Chowmein.jpg": "/Nepa-Restro/static/media/Chowmein.25a3a7cc7be4b91b90dd.jpg",
+    "static/media/Burger.jpg": "/Nepa-Restro/static/media/Burger.e69aef4b00a4ab549265.jpg",
+    "static/media/sandwich.jpeg": "/Nepa-Restro/static/media/sandwich.ee628222d21a1ca3e120.jpeg",
+    "index.html": "/Nepa-Restro/index.html",
+    "main.49e3b504.css.map": "/Nepa-Restro/static/css/main.49e3b504.css.map",
+    "main.9182b5e8.js.map": "/Nepa-Restro/static/js/main.9182b5e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e3b504.css",
+    "static/js/main.9182b5e8.js"
+  ]
+}
