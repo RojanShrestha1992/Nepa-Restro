@@ -9,8 +9,8 @@ export default function Home() {
         className="headerContainer"
         // style={{ backgroundImage: `url(${BackImage})` }}
       >
-        <h1>Pizza Anytime</h1>
-        <p>Have some pizzw</p>
+        <h1>Nepa Restro</h1>
+        <p>Try once, Repeat everyday</p>
         <Link to="/menu">
           <button>Order now</button>
         </Link>

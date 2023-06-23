@@ -1,38 +1,38 @@
-import Pepperoni from "../assets/pepperoni.jpg";
-import Margherita from "../assets/margherita.jpg";
-import PedroTechSpecial from "../assets/pedrotechspecial.jpg";
-import Vegan from "../assets/vegan.jpg";
-import Pineapple from "../assets/pineapple.jpg";
+import Momo from "../assets/Momo.jpeg";
+import Chowmein from "../assets/Chowmein.jpg";
+import Burger from "../assets/Burger.jpg";
+import Sandwich from "../assets/sandwich.jpeg";
+import Sausage from "../assets/sausage.jpg";
 import Expensive from "../assets/expensive.jpg";
 
 export const MenuList = [
   {
-    name: "Pepperoni Pizza",
-    image: Pepperoni,
+    name: "Buff Momos",
+    image: Momo,
     price: 15.99,
   },
   {
-    name: "Margherita Pizza",
-    image: Margherita,
+    name: "Chowmein",
+    image: Chowmein,
     price: 11.99,
   },
   {
-    name: "PedroTech Special Pizza",
-    image: PedroTechSpecial,
+    name: "Burger",
+    image: Burger,
     price: 256.53,
   },
   {
-    name: "Vegan Pizza",
-    image: Vegan,
+    name: "Sausages ",
+    image: Sausage,
     price: 17.99,
   },
   {
-    name: "Pineapple Pizza",
-    image: Pineapple,
+    name: "Sandwich",
+    image: Sandwich,
     price: 4.99,
   },
   {
-    name: "Very Expensive Pizza",
+    name: "Pizza",
     image: Expensive,
     price: 1997.99,
   },
