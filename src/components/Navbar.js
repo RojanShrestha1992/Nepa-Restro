@@ -19,7 +19,7 @@ function Navbar() {
           <img src={Logo} />{" "}
         </Link>
         <div className="hiddenLinks">
-          <Link to="/Nepa-Resro">Home</Link>
+          <Link to="/">Home</Link>
           <Link to="/Menu">Menu</Link>
           <Link to="/About">About</Link>
           <Link to="/Contact">Contact</Link>
